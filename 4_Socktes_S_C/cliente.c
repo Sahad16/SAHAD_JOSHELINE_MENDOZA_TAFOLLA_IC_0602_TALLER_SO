@@ -1,4 +1,4 @@
-// Client side C/C++ program to demonstrate Socket programming
+
 #include <stdio.h>
 #include <arpa/inet.h>
 #include <unistd.h>
