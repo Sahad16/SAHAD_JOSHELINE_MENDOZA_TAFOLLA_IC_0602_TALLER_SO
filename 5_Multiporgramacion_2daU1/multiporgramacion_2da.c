@@ -21,8 +21,8 @@ void main () {
   time_t t1;
   double tiempo_inicial = time(&t1);
 
-  printf("Presiona Enter para iniciar");
-  printf("Presiona Ctrl+C para finalizar el bucle");
+  printf("Presiona Enter para iniciar\n");
+  printf("Presiona Ctrl+C para finalizar el bucle\n");
   getchar();
 
   while(1){
